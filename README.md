@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oussama-aouini
-- 👀 I’m interested in DataScience & AI
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Linux
+- 👀 I’m interested in DataScience & Computer vision
+- 🌱 I’m currently learning MERN Stack & ML
+- 💞️ I’m looking to collaborate on any cool thing
 - 📫 You can reach me on twitter @aouiniou 
 
 <!---
