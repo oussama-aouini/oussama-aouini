@@ -16,7 +16,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -39,8 +38,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://aouiniou.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/oussama-aouini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/aouiniou/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="oussama.aouini@ensi-uma.tn"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="http://aouiniou.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aouiniou.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/oussama-aouini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oussama%20Aouini-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/aouiniou/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aouiniou-blue?style=flat-square&logo=instagram"></a>
+<a href="oussama.aouini@ensi-uma.tn"><img alt="Email" src="https://img.shields.io/badge/Email-aouiniou@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
