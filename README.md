@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies every day.
-- 🎓 &nbsp; Studying Computer Science and specializing in computer vision at ENSI.
+- 🎓 &nbsp; Studying computer science and specializing in computer vision at ENSI.
 - 💼 &nbsp; Open to freelance opportunities for web and mobile development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
