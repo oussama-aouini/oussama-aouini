@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Oussama.</h2>
+<h2> Hello handsome :stuck_out_tongue_winking_eye:! I'm Oussama.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
