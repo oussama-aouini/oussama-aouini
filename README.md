@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies every day.
-- 🎓 &nbsp; Studying computer science & specializing in computer vision at ENSI.
-- 💼 &nbsp; Open to freelance opportunities for web and mobile development.
+- 🎯 &nbsp; I strive to expand my skill set while working on innovative & impactful projects.
+- 🎓 &nbsp; Studied Computer Science in Tunisia's National School for CS.
+- 💼 &nbsp; Currently a Junior Software Engineer @[Talan Tunisie](https://tn.talan.com/).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
