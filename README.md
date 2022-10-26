@@ -3,8 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎯 &nbsp; I strive to expand my skill set while working on innovative & impactful projects.
-- 🎓 &nbsp; Studied Computer Science in Tunisia's National School for CS.
+- 🎓 &nbsp; Studied Computer Science at Tunisia's National School for CS.
 - 💼 &nbsp; Currently a Junior Software Engineer @[Talan Tunisie](https://tn.talan.com/).
+- 🤸‍♂️ &nbsp; In my free time I'm a binge watcher and noob gamer along some other stuff.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
