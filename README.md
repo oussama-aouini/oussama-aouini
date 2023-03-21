@@ -39,8 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://aouiniou.me/"><img alt="Website" src="https://img.shields.io/badge/Website-aouiniou.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/oussama-aouini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oussama%20Aouini-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/oussama_aouini_"><img alt="Instagram" src="https://img.shields.io/badge/Twitter-oussama_aouini_-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:oussama.aouini@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-oussama.aouini@yahoo.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:oussama.aouini.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oussama.aouini@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
