@@ -30,8 +30,8 @@
 <br/>
 
 <a href="https://github.com/oussama-aouini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-aouini&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-aouini&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-aouini&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-aouini&theme=dracula&layout=compact" />
 </a>
 
 <br/>
