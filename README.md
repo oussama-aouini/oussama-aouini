@@ -1,11 +1,9 @@
 ### Hey 👋, I'm Oussama Aouini
 
-## ❓ Who Am I?
-
-- 👨‍💻 **Software Engineer** with over 2 years of hands-on experience in building and maintaining applications.
-- 🎓 Holder of a **Master’s degree in Computer Science**, with a solid foundation in software development principles.
+- 👨‍💻 **Software Engineer** with over 2 years of experience in building and maintaining applications.
+- 🎓 Holder of a **Master’s degree in Computer Science**.
+- 🌟 My dream job is one where I can learn, grow, and, most importantly, see the impact I make.
 - 💪 Passionate about fitness – **gym enthusiast** and **spearfishing** hobbyist.
-- 💡 Always eager to learn, grow, and tackle new challenges in tech.
 
 <br/>
 
