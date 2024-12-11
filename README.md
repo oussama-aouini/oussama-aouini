@@ -18,6 +18,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/oussama-aouini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oussama%20Aouini-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/oussama_aouini_"><img alt="Instagram" src="https://img.shields.io/badge/Twitter-oussama_aouini_-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/oussama_aouini_"><img alt="Instagram" src="https://img.shields.io/badge/Twitter-oussama_aouini_-blue?style=flat-square&logo=x"></a>
 <a href="mailto:oussama.aouini.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oussama.aouini.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
