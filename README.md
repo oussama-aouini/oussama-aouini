@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Oussama Aouini
 
-- 👨‍💻 **Software Engineer** with over 2 years of experience in building and maintaining web applications.
+- 👨‍💻 **Software Engineer** with over 3 years of experience in building and maintaining web applications.
 - 🎓 Holder of a **Master’s degree in Computer Science**.
 - 🌟 My dream job is one where I can learn, grow, and, most importantly, see the impact I make.
 - 🏋️ If I'm not in front of a screen, I'm probably in the Gym.
